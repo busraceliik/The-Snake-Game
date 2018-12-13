@@ -26,3 +26,5 @@ You are expected to design the game by using C++. Below are the minimal criteria
 • When snake hit any wall, game is over and you need to show high score. 
 
 In this project,  you  must  do  all  minimum  criteria.  In the  end,  your  program  must  be  work without any errors.
+
+# This project has made by Busra Celik.
